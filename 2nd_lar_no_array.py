@@ -1,6 +1,6 @@
 a=[2,4,3,5,7,9,6]
 max1=0
-max2=0
+max2=0 #The values are initialized
 for i in a:
     if i>max1:
         max2=max1
